@@ -30,12 +30,16 @@
 			// player
 			const snakeSize = 50;
 
-			let snakeSpeed = 50;
+			let snakeSpeed = snakeSize;
 			let snakePosX = 0;
-			let snakePosY = canvas.height / 2 - snakeSize / 2;
+			let snakePosY = canvas.height / 2;
 
 			let velocityX = 1;
 			let velocityY = 0;
+
+			// food
+			let foodPosX = 0;
+			let foodPosY = 0;
 
 			const tileCountX = canvas.width / snakeSize;
 			const tileCountY = canvas.height / snakeSize;
@@ -46,6 +50,8 @@
 				// moveStuff();
 				setTimeout(gameLoop, 1000 / 15);
 			}
+
+			resetFood();
 			gameLoop();
 
 			/**
@@ -55,17 +61,23 @@
 				snakePosX += snakeSpeed * velocityX;
 				snakePosY += snakeSpeed * velocityY;
 
-				if (snakePosX > canvas.width) {
+				// wall collision
+				if (snakePosX > canvas.width - snakeSize) {
 					snakePosX = 0;
 				}
-				if (snakePosX < -snakeSize) {
+				if (snakePosX < 0) {
 					snakePosX = canvas.width;
 				}
-				if (snakePosY > canvas.height) {
+				if (snakePosY > canvas.height - snakeSize) {
 					snakePosY = 0;
 				}
-				if (snakePosY < -snakeSize) {
+				if (snakePosY < 0) {
 					snakePosY = canvas.height;
+				}
+
+				// food collision
+				if (snakePosX === foodPosX && snakePosY === foodPosY) {
+					resetFood();
 				}
 			}
 
@@ -79,6 +91,9 @@
 				// grid
 				drawGrid();
 
+				// food
+				rectangle("#00bfff", foodPosX, foodPosY, snakeSize, snakeSize);
+
 				// snake
 				rectangle("black", snakePosX, snakePosY, snakeSize, snakeSize);
 			}
@@ -87,6 +102,12 @@
 			function rectangle(color, x, y, width, height) {
 				ctx.fillStyle = color;
 				ctx.fillRect(x, y, width, height);
+			}
+
+			// randomize food position
+			function resetFood() {
+				foodPosX = Math.floor(Math.random() * tileCountX) * snakeSize;
+				foodPosY = Math.floor(Math.random() * tileCountY) * snakeSize;
 			}
 
 			/**
