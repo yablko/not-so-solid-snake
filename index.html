@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>my absolute snake son</title>
+		<style>
+			body {
+				background: #ffbf00;
+				text-align: center;
+			}
+
+			canvas {
+				border: 10px solid #f7347a;
+			}
+		</style>
+	</head>
+	<body>
+		<canvas width="600" height="600"></canvas>
+
+		<script>
+			// canvas
+			const canvas = document.querySelector("canvas");
+			const ctx = canvas.getContext("2d");
+
+			// player
+			const snakeSize = 50;
+			let snakePosX = 0;
+			let snakePosY = canvas.height / 2 - snakeSize / 2;
+
+			ctx.fillStyle = "white";
+			ctx.fillRect(0, 0, canvas.width, canvas.height);
+
+			ctx.fillStyle = "black";
+			ctx.fillRect(snakePosX, snakePosY, snakeSize, snakeSize);
+		</script>
+	</body>
+</html>
