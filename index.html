@@ -28,9 +28,9 @@
 			const ctx = canvas.getContext("2d");
 
 			// player
-			const snakeSize = 50;
+			const snakeSize = 30;
 
-			let snakeSpeed = 5;
+			let snakeSpeed = 30;
 			let snakePosX = 0;
 			let snakePosY = canvas.height / 2 - snakeSize / 2;
 
@@ -41,7 +41,7 @@
 			function gameLoop() {
 				drawStuff();
 				// moveStuff();
-				requestAnimationFrame(gameLoop);
+				setTimeout(gameLoop, 1000 / 15);
 			}
 			gameLoop();
 
