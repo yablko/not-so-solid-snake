@@ -21,6 +21,12 @@
 				font-weight: bold;
 				letter-spacing: -10px;
 			}
+
+			h1 strong {
+				font-size: 1.35em;
+				display: inline-block;
+				margin: 0 0.25em;
+			}
 		</style>
 	</head>
 
@@ -38,8 +44,10 @@
 			const ctx = canvas.getContext("2d");
 
 			// game
+			let gameIsRunning = true;
+
 			const fps = 15;
-			const tileSize = 60;
+			const tileSize = 50;
 			const tileCountX = canvas.width / tileSize;
 			const tileCountY = canvas.height / tileSize;
 
@@ -62,9 +70,11 @@
 
 			// loop
 			function gameLoop() {
-				drawStuff();
-				// moveStuff();
-				setTimeout(gameLoop, 1000 / fps);
+				if (gameIsRunning) {
+					drawStuff();
+					moveStuff();
+					setTimeout(gameLoop, 1000 / fps);
+				}
 			}
 
 			resetFood();
@@ -90,6 +100,13 @@
 				if (snakePosY < 0) {
 					snakePosY = canvas.height;
 				}
+
+				// GAME OVER (crash into myself)
+				tail.forEach((snakePart) => {
+					if (snakePosX === snakePart.x && snakePosY === snakePart.y) {
+						gameOver();
+					}
+				});
 
 				// tail
 				tail.push({ x: snakePosX, y: snakePosY });
@@ -135,8 +152,34 @@
 
 			// randomize food position
 			function resetFood() {
+				// GAME OVER (nowhere to go)
+				if (snakeLength === tileCountX * tileCountY) {
+					gameOver();
+				}
+
 				foodPosX = Math.floor(Math.random() * tileCountX) * tileSize;
 				foodPosY = Math.floor(Math.random() * tileCountY) * tileSize;
+
+				// dont spawn food on snakes head
+				if (foodPosX === snakePosX && foodPosY === snakePosY) {
+					resetFood();
+				}
+
+				// dont spawn food on any snake part
+				if (
+					tail.some(
+						(snakePart) => snakePart.x === foodPosX && snakePart.y === foodPosY
+					)
+				) {
+					resetFood();
+				}
+			}
+
+			// GAME OVER
+			// KEYBOARD restarts game
+			function gameOver() {
+				title.innerHTML = `☠️ <strong> ${score} </strong> ☠️`;
+				gameIsRunning = false;
 			}
 
 			/**
@@ -167,6 +210,10 @@
 							velocityX = 0;
 							velocityY = 1;
 						}
+						break;
+					default:
+						// restart game
+						if (!gameIsRunning) location.reload();
 						break;
 				}
 			}
