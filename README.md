@@ -7,7 +7,8 @@ Baví ma to. Viem, že som to video spravil ja, ale baví ma. Rozmýšľam, že 
 
 #### Video, kde ťa naučím hadíka spraviť, krok za krokom:
   
-[lalala]
+TODO: spravit z toho gif? alebo thumbnail obrazok linkujuci na yt
+https://youtu.be/38FeZ6jpclk
   
 #### Hraj sa hadíka tu, šoféruj ho:
   
