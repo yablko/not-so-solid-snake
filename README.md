@@ -15,7 +15,7 @@ Baví ma to. Viem, že som to video spravil ja, ale baví ma. Rozmýšľam, že 
   
 ### ZAHRAJ SA hadíka, šoféruj ho:
   
-:: https://yablko.github.com/not-so-solid-snake
+:: https://yablko.github.com/not-so-solid-snake/
 
 V branchoch vidíš, ako sa kód vyvíjal.
 
