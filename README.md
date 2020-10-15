@@ -9,9 +9,7 @@ Baví ma to. Viem, že som to video spravil ja, ale baví ma. Rozmýšľam, že 
 
 ### VIDEO, kde ťa naučím hadíka spraviť, krok za krokom:
   
-TODO: spravit z toho gif? alebo thumbnail obrazok linkujuci na yt 
-https://www.nathan-lam.com/blog/embed-video-in-github-readme.html
-https://youtu.be/38FeZ6jpclk 
+:: https://youtu.be/38FeZ6jpclk 
   
 ### ZAHRAJ SA hadíka, šoféruj ho:
   
