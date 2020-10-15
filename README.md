@@ -9,7 +9,7 @@ Baví ma to. Viem, že som to video spravil ja, ale baví ma. Rozmýšľam, že 
 
 ### VIDEO, kde ťa naučím hadíka spraviť, krok za krokom:
   
-:: https://youtu.be/38FeZ6jpclk 
+:: https://youtu.be/D-dtyO44ANA
   
 ### ZAHRAJ SA hadíka, šoféruj ho:
   
