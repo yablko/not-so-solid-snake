@@ -15,7 +15,7 @@ https://youtu.be/38FeZ6jpclk
   
 #### Hraj sa hadíka tu, šoféruj ho:
   
-[lalala]
+https://yablko.github.com/not-so-solid-snake
 
 V branchoch vidíš, ako sa kód vyvíjal.
 
