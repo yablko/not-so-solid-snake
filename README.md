@@ -21,8 +21,12 @@ V branchoch vidíš, ako sa kód vyvíjal.
 
 ---
 
-### kurzy, ktoré spomínam vo videu (trochu si spravím reklamu)
+Ak si učiteľ, môžeš tento kód a video používať na škole, ako len chceš. Enjoy!  
+Ak ma chceš podporiť, a nemusíš byť učiteľ, **hoď po mne groš cez ♥️ [patreon](https://www.patreon.com/yablko)**.  
+Sľubujem, že to možno nie je kult a patróni majú moje videá a kurzy skôr. A môžu mi kydať do vecí. A dávam im tipy, rady, odporúčania, backstage veci a spomínal som, že to možno nie je kult? 
 
+**Kurzy, ktoré spomínam vo videu (trochu si spravím reklamu)**
+  
 <sup>HTML/CSS skús ZDARMA https://www.youtube.com/playlist?list=PL3VwAXKvhemVw5DnAqeGbZx5AgEQT27xF  
 WEBREBEL kurz tu https://www.learn2code.sk/kurzy/webrebel-1-html-css-javascript  
 JavaScript a ES6 kurz https://www.learn2code.sk/kurzy/online-kurz-javascript-es  
@@ -30,8 +34,3 @@ Všetky moje learn2code kurzy https://www.learn2code.sk/instruktori/roman-hraska
 Predplatné (dostaneš všetko, čo existuje) https://www.learn2code.sk/predplatne  
 Tu nájdeš kopu ukážok z mojich kurzov, skús si ich ZDARMA https://www.youtube.com/c/Yablko/playlists?view=1&sort=dd&shelf_id=0</sup>
   
----
-
-Ak si učiteľ, môžeš tento kód a video používať na škole, ako len chceš. Enjoy!  
-Ak ma chceš podporiť, a nemusíš byť učiteľ, **hoď po mne groš cez ♥️ [patreon](https://www.patreon.com/yablko)**.  
-Sľubujem, že to možno nie je kult a patróni majú moje videá a kurzy skôr. A môžu mi kydať do vecí. A dávam im tipy, rady, odporúčania, backstage veci a spomínal som, že to možno nie je kult? 
