@@ -7,13 +7,13 @@ Baví ma to. Viem, že som to video spravil ja, ale baví ma. Rozmýšľam, že 
 
 ---
 
-### video, kde ťa naučím hadíka spraviť, krok za krokom:
+### VIDEO, kde ťa naučím hadíka spraviť, krok za krokom:
   
 TODO: spravit z toho gif? alebo thumbnail obrazok linkujuci na yt 
 https://www.nathan-lam.com/blog/embed-video-in-github-readme.html
 https://youtu.be/38FeZ6jpclk 
   
-### hraj sa hadíka tu, šoféruj ho:
+### ZAHRAJ SA hadíka, šoféruj ho:
   
 :: https://yablko.github.com/not-so-solid-snake
 
@@ -25,7 +25,9 @@ Ak si učiteľ, môžeš tento kód a video používať na škole, ako len chce�
 Ak ma chceš podporiť, a nemusíš byť učiteľ, **hoď po mne groš cez ♥️ [patreon](https://www.patreon.com/yablko)**.  
 Sľubujem, že to možno nie je kult a patróni majú moje videá a kurzy skôr. A môžu mi kydať do vecí. A dávam im tipy, rady, odporúčania, backstage veci a spomínal som, že to možno nie je kult? 
 
-**Kurzy, ktoré spomínam vo videu (trochu si spravím reklamu)**
+---
+  
+**KURZY, ktoré spomínam vo videu (trochu si spravím reklamu)**
   
 <sup>HTML/CSS skús ZDARMA https://www.youtube.com/playlist?list=PL3VwAXKvhemVw5DnAqeGbZx5AgEQT27xF  
 WEBREBEL kurz tu https://www.learn2code.sk/kurzy/webrebel-1-html-css-javascript  
