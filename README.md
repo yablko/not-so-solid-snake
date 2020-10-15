@@ -6,10 +6,11 @@ Naučím ťa spraviť si hru. Od nuly. Vysvetlím každý krok. Nepotrebuješ en
 Baví ma to. Viem, že som to video spravil ja, ale baví ma. Rozmýšľam, že medzi každý väčší kurz strčím menšiu hru. Treba sa naučiť hrať sa v tomto svete ťažkom, čo ti poviem. Všeličo! Vo videu!
 
 #### Video, kde ťa naučím hadíka spraviť, krok za krokom:
-
-[lala]
-
-#### Hraj sa hadíka tu, šoféruj ho:
-
+  
 [lalala]
-
+  
+#### Hraj sa hadíka tu, šoféruj ho:
+  
+[lalala]
+  
+TODO: - pridat odkazy na kurzy atd. z videa
