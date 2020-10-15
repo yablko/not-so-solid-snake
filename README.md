@@ -5,6 +5,8 @@ Naučím ťa spraviť si hru. Od nuly. Vysvetlím každý krok. Nepotrebuješ en
   
 Baví ma to. Viem, že som to video spravil ja, ale baví ma. Rozmýšľam, že medzi každý väčší kurz strčím menšiu hru. Treba sa naučiť hrať sa v tomto svete ťažkom, čo ti poviem. Všeličo! Vo videu!
 
+---
+
 #### Video, kde ťa naučím hadíka spraviť, krok za krokom:
   
 TODO: spravit z toho gif? alebo thumbnail obrazok linkujuci na yt
@@ -14,7 +16,11 @@ https://youtu.be/38FeZ6jpclk
   
 [lalala]
   
+---
+
 TODO: - pridat odkazy na kurzy atd. z videa
+
+---
 
 Ak si učiteľ, môžeš tento kód a video používať na škole, ako len chceš. Enjoy!  
 Ak ma chceš podporiť, a nemusíš byť učiteľ, **hoď po mne groš cez [patreon](https://www.patreon.com/yablko)**.  
