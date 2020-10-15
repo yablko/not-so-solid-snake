@@ -15,6 +15,8 @@ https://youtu.be/38FeZ6jpclk
 #### Hraj sa hadíka tu, šoféruj ho:
   
 [lalala]
+
+V branchoch vidíš, ako sa kód vyvíjal.
   
 ---
 
