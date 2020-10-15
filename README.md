@@ -21,12 +21,12 @@ V branchoch vidíš, ako sa kód vyvíjal.
 
 #### Kurzy, ktoré spomínam vo videu (trochu si spravím reklamu)
 
-HTML/CSS skús ZDARMA https://www.youtube.com/playlist?list=PL3VwAXKvhemVw5DnAqeGbZx5AgEQT27xFcelý
-WEBREBEL kurz tu https://www.learn2code.sk/kurzy/webrebel-1-html-css-javascript
-JavaScript a ES6 kurz https://www.learn2code.sk/kurzy/online-kurz-javascript-es
-Všetky moje learn2code kurzy https://www.learn2code.sk/instruktori/roman-hraska 1300+ videí
-Predplatné (dostaneš všetko, čo existuje) https://www.learn2code.sk/predplatne
-Tu nájdeš kopu ukážok z mojich kurzov, skús si ich ZDARMA https://www.youtube.com/c/Yablko/playlists?view=1&sort=dd&shelf_id=0
+HTML/CSS skús ZDARMA https://www.youtube.com/playlist?list=PL3VwAXKvhemVw5DnAqeGbZx5AgEQT27xFcelý  
+WEBREBEL kurz tu https://www.learn2code.sk/kurzy/webrebel-1-html-css-javascript  
+JavaScript a ES6 kurz https://www.learn2code.sk/kurzy/online-kurz-javascript-es  
+Všetky moje learn2code kurzy https://www.learn2code.sk/instruktori/roman-hraska 1300+ videí  
+Predplatné (dostaneš všetko, čo existuje) https://www.learn2code.sk/predplatne  
+Tu nájdeš kopu ukážok z mojich kurzov, skús si ich ZDARMA https://www.youtube.com/c/Yablko/playlists?view=1&sort=dd&shelf_id=0  
   
 ---
 
