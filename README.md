@@ -26,6 +26,48 @@ Ak ma chceš podporiť, a nemusíš byť učiteľ, **hoď po mne groš cez ♥�
 Sľubujem, že to možno nie je kult a patróni majú moje videá a kurzy skôr. A môžu mi kydať do vecí. A dávam im tipy, rady, odporúčania, backstage veci a spomínal som, že to možno nie je kult? 
 
 ---
+
+### Chceš sa zlepšiť v programovaní?  
+
+Chyť môj kód a vylepši hada.  
+Pár nápadov, čo s ním môžeš spraviť:  
+  
+**a) ZAGUĽAŤ HADA**
+  
+Had je štvorcový. Zmeň ho na okrúhleho.  
+Namiesto štvorca nakresli kruh.  
+Sprav novú funkciu, ktorá namiesto rektángla nakreslí kruh.  
+  
+**b) NAKÚR TO DO STENY**  
+  
+Cez steny môžeš prechádzať. Zmeň to.  
+Že hra skončí, keď narazíš do steny.  
+  
+**c) HAD PALCOM**  
+  
+Keď hru otvoríš na mobile, zaplačeš.  
+Zatiaľ sme klávesnicoví.  
+Skús hru zmeniť tak, že ju môžeš ovládať palcom na mobilných divajces.  
+  
+**d) FAST AND FURIOUS**  
+  
+Sprav, nech had pridá vždy, keď zoberieš jedlo.  
+Nažereš sa a stlačíš Vin Diesel turbo gombík.  
+Odporúčam limitovať maximálnu možnú rýchlosť.  
+Not too fast not too furious.  
+  
+**e) SKONTROLUJ KOLÍZIE**  
+  
+Mám tušenie, že kolízie so stenami stále nie sú úplne správne?  
+Tvoja úloha je jednak zistiť, či je moje tušenie správne.  
+A ak je, tak opraviť chybu.  
+  
+**f) VAŠO**  
+  
+Pridaj zvuky.  
+Prípadne hudbu.  
+
+---
   
 **KURZY, ktoré spomínam vo videu (trochu si spravím reklamu)**
   
